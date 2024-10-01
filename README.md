@@ -3,12 +3,10 @@ Welcome to the HTML and CSS Projects repository! This repository contains variou
 
 
 **Table of Contents**
-1.Introduction
-2.Project List
-3.Getting Started
-4.Installation
-5.Contributing
-6.License
+1. Introduction
+2. Project List
+3. Getting Started
+4. Installation
 
 
 **Project List**
@@ -33,17 +31,15 @@ Once cloned, navigate to any project folder and open the index.html file in your
 
 **Installation**
 
-No special installation is required. Just ensure that you have a modern web browser (e.g., Chrome, Firefox, Edge) installed to run the projects.
+You don't need to do any special installation. Please make sure that you have a modern web browser (e.g., Chrome, Firefox, Edge) installed to run the projects.
 
 If you'd like to modify the code, you can use any code editor, such as:
 
 1.https://code.visualstudio.com/ -VS Code
+
 2.https://www.sublimetext.com/ -Sublime Text
 
 
-**Contributing**
-Contributions are welcome! If you have any suggestions or improvements, feel free to fork the repository, make your changes, and submit a pull request. Please ensure your code follows best practices and is well-documented.
 
-**License**
-This repository is licensed under the MIT License. See the LICENSE file for more details.
+
 
