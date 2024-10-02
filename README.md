@@ -20,6 +20,14 @@ Link to Project
 Description: A simple Cafe website using HTML and CSS
 Link to Project 
 
+2. Project 3: Color Markers
+Description: Color Markers using HTML and CSS
+Link to Project 
+
+2. Project 4: Registration Form
+Description:  Registration Form using HTML and CSS
+Link to Project 
+
 
 **Getting Started**
 
