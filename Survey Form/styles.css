@@ -1,0 +1,101 @@
+* {
+    margin: 0;
+  }
+  
+  body {
+    font-family: Tahoma, serif;
+    width: 100%;
+    height: 100vh;
+    font-size: 1rem;
+  }
+  
+  h1,p{
+    text-align: center;
+    margin: 2rem auto;
+  }
+  
+.form {
+    width: 70vh;
+    margin: 2rem auto;
+    max-width: 900px;
+    min-width: 300px;
+    padding: 2rem;
+    background-color: #1b1b32;
+    border-radius: 1rem;
+    border-color: 2px solid white;
+    color: white;
+  }
+
+
+  fieldset {
+    border: none;
+    border-bottom: 2px solid white;
+    margin-top: 1rem;
+    padding: 2rem;
+  }
+
+  fieldset:last-of-type{
+    border: none;
+  }
+  
+  label {
+    display:flex;
+    align-items: center;
+    justify-content: flex-start;
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+  }
+
+  input, select, textarea{
+    border: 1px solid white;
+    padding: 1rem 1rem;
+    border-radius: 0.3rem;
+    color: black;
+    margin: 0.5rem auto;
+    width: 100%;
+    box-sizing: border-box;
+  } 
+
+  input[type="radio"], input[type="checkbox"] {
+    margin:1em 1em;
+    width:unset;
+    vertical-align: middle;
+    cursor: pointer;
+  }
+ 
+input[type="submit"] {
+
+    display: flex;
+    align-items: center;
+    width: 100%;
+    margin: 1rem auto;
+    font-size: 1.2rem;
+    color: white;
+    cursor: pointer;
+    background-color: rgba(0, 255, 0, 0.6);
+    border-color: white;
+    border-radius: 0.3rem;
+    box-sizing: border-box;
+  }
+
+
+
+  
+  input:focus, textarea:focus, select:focus {
+    outline: none;
+    border-color: white;
+    box-shadow: 0 0 5px rgba(255, 255, 255, 0.5);
+  }
+  
+  /* Valid Styles */
+  input:focus:valid, textarea:focus:valid, select:focus:valid {
+    border: 3px solid #4caf50;
+    box-shadow: none;
+  }
+  
+  /* Invalid Styles */
+  input:focus:invalid, textarea:focus:invalid, select:focus:invalid {
+    border: 3px solid #e74c3c;
+    box-shadow: none;
+  }
+  
