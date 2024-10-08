@@ -12,7 +12,7 @@ Welcome to the HTML and CSS Projects repository! This repository contains variou
 **Project List**
 
 
-1. Project 1: CatPhotoApp
+1. Project 1: CatPhotoGallery
 Description: A simple CatPhotoApp website using only HTML.
 Link to Project 
 
@@ -20,13 +20,19 @@ Link to Project
 Description: A simple Cafe website using HTML and CSS
 Link to Project 
 
-2. Project 3: Color Markers
+3. Project 3: Color Markers
 Description: Color Markers using HTML and CSS
 Link to Project 
 
-2. Project 4: Registration Form
+4. Project 4: Registration Form
 Description:  Registration Form using HTML and CSS
-Link to Project 
+
+4. Project 5: Survey Form
+Description:  Survey Form using HTML and CSS
+
+4. Project 6: CatPhotoAPP
+Description:  CatPhotoAPP using HTML and CSS [flex box]
+
 
 
 **Getting Started**
